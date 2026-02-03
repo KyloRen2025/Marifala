@@ -1,0 +1,26 @@
+#bureau{
+    background-color: bisque;
+    
+}
+#cuisine{
+    background-color: antiquewhite;
+}
+#porte{
+    background-color: beige;
+}
+#litsarmoires{
+    background-color: azure;
+}
+#salon{
+    background-color: aliceblue;
+}
+body{
+    background-color: aliceblue;
+    a{
+        background-color: rgb(229, 229, 243);
+    }
+}
+img{
+    display: flexbox;
+    justify-content: space-between;
+}
